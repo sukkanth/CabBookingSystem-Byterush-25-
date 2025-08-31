@@ -28,11 +28,15 @@ The system must support:
 ---
 
 ## 🖥️ Sample Outputs  
-Here are screenshots from our working project (stored in `/screenshots` folder):  
+## 🚖 Cab Booking System – Output Screenshots
 
-![Booking Screenshot](op1.png)  
-![Prime Discount Screenshot](op2.png)  
-![Admin Panel Screenshot](op3.png)  
+| Admin Login & Add Driver | User Sign Up |
+|--------------------------|--------------|
+| ![op1](op1.png)          | ![op2](op2.png) |
+
+| User Sign In & Car Booking | Prime Discount |
+|-----------------------------|----------------|
+| ![op3](op3.png)             | ![op4](op4.png) |
 
 ---
 
