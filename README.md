@@ -47,3 +47,14 @@ The system must support:
 
 ---
 
+## 🚀 Future Enhancements
+- Add support for different cab types (Mini, Sedan, SUV)
+- Implement dynamic pricing based on demand
+- Store ride history in a database (instead of console only)
+- Add payment gateway integration
+
+  
+---
+## 👨‍💻 Team Members
+- Sukkanth Muthukumar
+- Shahin Raihaan A
