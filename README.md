@@ -22,7 +22,7 @@ The system must support:
 - ✅ View ride history  
 - ✅ **Prime Discount** logic applied for eligible customers  
 - ✅ Fare calculation with base + distance-based pricing  
-- ✅ Admin login (`sukkanth / sukkanth`)  
+- ✅ Admin login (`sukkanth / sukkanth07`)  
 - ✅ Admin dashboard to view/manage all bookings  
 
 ---
