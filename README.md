@@ -30,9 +30,9 @@ The system must support:
 ## 🖥️ Sample Outputs  
 Here are screenshots from our working project (stored in `/screenshots` folder):  
 
-![Booking Screenshot](screenshots/op1.png)  
-![Prime Discount Screenshot](screenshots/op2.png)  
-![Admin Panel Screenshot](screenshots/op3.png)  
+![Booking Screenshot](op1.png)  
+![Prime Discount Screenshot](op2.png)  
+![Admin Panel Screenshot](op3.png)  
 
 ---
 
